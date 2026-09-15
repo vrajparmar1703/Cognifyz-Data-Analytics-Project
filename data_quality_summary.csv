@@ -1,0 +1,22 @@
+column,dtype,missing,unique
+Restaurant ID,int64,0,9551
+Restaurant Name,str,0,7446
+Country Code,int64,0,15
+City,str,0,141
+Address,str,0,8918
+Locality,str,0,1208
+Locality Verbose,str,0,1265
+Longitude,float64,0,8120
+Latitude,float64,0,8677
+Cuisines,str,9,1825
+Average Cost for two,int64,0,140
+Currency,str,0,12
+Has Table booking,bool,0,2
+Has Online delivery,bool,0,2
+Is delivering now,bool,0,2
+Switch to order menu,bool,0,1
+Price range,int64,0,4
+Aggregate rating,float64,0,33
+Rating color,str,0,6
+Rating text,str,0,6
+Votes,int64,0,1012

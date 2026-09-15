@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Cognifyz_Data_Analytics.xlsx
+Level_1/
+Level_2/
+data/Cognifyz_Restaurant_Cleaned.csv
